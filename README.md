@@ -1,45 +1,55 @@
-📊 Data Warehouse and Analytics Project
+# 📊 Data Warehouse and Analytics Project
 
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project showcases an end-to-end data warehousing and analytics solution, covering everything from data ingestion and modeling to insight generation. Built as a portfolio project, it reflects industry best practices in data engineering, data modeling, and analytics.
+Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+This project demonstrates an **end-to-end data warehousing and analytics solution**, from building a modern data warehouse to generating actionable business insights. It is designed as a **portfolio project** that follows **industry best practices** in data engineering and analytics.
 
-🏗️ Project Requirements
-Building the Data Warehouse (Data Engineering)
+---
 
-Objective
-Design and implement a modern data warehouse using SQL Server to centralize sales data and support analytical reporting and data-driven decision-making.
+## 🏗️ Project Requirements
 
-Specifications
+### 🔹 Building the Data Warehouse (Data Engineering)
 
-Data Sources: Ingest data from two operational systems (ERP and CRM) provided as CSV files
+**Objective**  
+Develop a **modern data warehouse using SQL Server** to consolidate sales data and support analytical reporting and data-driven decision-making.
 
-Data Quality: Identify, clean, and resolve data quality issues prior to analysis
+**Specifications**
+- **Data Sources:** Import data from two source systems (**ERP** and **CRM**) provided as CSV files  
+- **Data Quality:** Clean, validate, and resolve data quality issues before analysis  
+- **Integration:** Combine both data sources into a single, **analytics-optimized data model**  
+- **Scope:** Focus on the **latest dataset only**; data historization is not required  
+- **Documentation:** Provide clear and structured **data model documentation** for business and analytics users  
 
-Integration: Merge both sources into a unified, analytics-friendly data model
+---
 
-Scope: Focus on the most recent dataset; historical tracking is out of scope
+## 📈 BI, Analytics & Reporting (Data Analysis)
 
-Documentation: Deliver clear and structured documentation of the data model for both business and analytics users
+**Objective**  
+Develop **SQL-based analytical queries** to generate insights related to:
+- **Customer behavior**
+- **Product performance**
+- **Sales trends**
 
-📈 BI, Analytics & Reporting (Data Analysis)
+These insights help stakeholders track key metrics and support **strategic decision-making**.
 
-Objective
-Develop SQL-based analytical queries to generate meaningful insights related to:
+For more details, refer to **`docs/requirements.md`**.
 
-Customer behavior
+---
 
-Product performance
+## 🛡️ License
 
-Sales trends
+This project is licensed under the **MIT License**.  
+You are free to **use, modify, and distribute** this project with proper attribution.
 
-These insights enable stakeholders to monitor key business metrics and make informed strategic decisions.
+---
 
-For additional details, see docs/requirements.md.
+## 👤 About Me
 
-🛡️ License
+**Alifa Rahman**  
+**Age:** 21  
 
-This project is released under the MIT License, allowing free use, modification, and distribution with appropriate attribution.
+I am a **recent graduate** with strong interests in **data analytics, software development, game development, and web development**. I am **highly motivated**, **quick to learn**, and continuously strengthening my skills in modern technologies and data-driven problem solving.
 
-👤 About Me
+---
 
-I’m Alifa Rahman, a 21-year-old recent graduate with strong interests in data analytics, software development, game development, and web development. I’m highly motivated, quick to learn, and continuously building skills across modern technologies, programming, and data-driven problem solving.
+⭐ *If you find this project useful, feel free to star the repository!*
+
